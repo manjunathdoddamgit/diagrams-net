@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T05:14:55.386Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="AWh9VPJKaXvpn95tBTBL" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-16T05:15:42.574Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.3 Safari/605.1.15" etag="G3yVYCDdWH7AOc87i-mE" version="17.1.1" type="github">
   <diagram id="HHhNP4SVwIDUWHWwpKeL" name="Page-1">
     <mxGraphModel dx="1599" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry x="57" y="41" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YsyHnd-0THPUY1DzU66A-24" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/OpenStack®_Logo_2016.svg/2560px-OpenStack®_Logo_2016.svg.png;" vertex="1" parent="1">
-          <mxGeometry x="556.41" y="210" width="103.59" height="50" as="geometry" />
+          <mxGeometry x="543.2099999999999" y="210" width="103.59" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YsyHnd-0THPUY1DzU66A-27" value="Altair Access&lt;br&gt;Linux OS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="170" y="510" width="120" height="60" as="geometry" />
